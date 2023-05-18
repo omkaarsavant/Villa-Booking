@@ -163,7 +163,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="rooms-w3ls bg-li py-5" id="price">
 		<div class="container-fluid py-xl-5 py-lg-3">
 			<h3 class="tittle text-center text-bl font-weight-bold">Rooms & Suites</h3>
-			<p class="sub-tittle text-center mt-2 mb-sm-5 mb-4 pb-xl-3">Hello NIKHIL NIKAM</p>
+			<p class="sub-tittle text-center mt-2 mb-sm-5 mb-4 pb-xl-3">Hello Hi NIKHIL NIKAM</p>
 			<div class="row">
 				<div class="col-lg-4 price-mobamus">
 					<div class="price-top">
